@@ -1,2 +1,2 @@
-Instance	    Debug	#Decoder	#LS	Time	#Runs	#Threads	Optimal
-/TSP/berlin52.tsp	1	    5	    4	52	    1	    4	        7542
+Instance	    Debug	#Decoder	Time	#Runs	#Threads	Optimal
+/TSP/pr136.tsp	1	1	20	1	4	96772
